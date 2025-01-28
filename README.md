@@ -1,2 +1,2 @@
-# treinamento_UFBA
+# Treinamento UFBA
 Repositório para arquivos do treinamento para a UFBA
