@@ -1,2 +1,2 @@
-# Treinamento UFBA
-Repositório para arquivos do treinamento para a UFBA
+# sbbs2024
+Arquivos para o minicurso de oncogenômica do SBBS 2024
